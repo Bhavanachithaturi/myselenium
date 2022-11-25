@@ -1,0 +1,11 @@
+package t1;
+
+public class Structure {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("go to hell");
+
+	}
+
+}
